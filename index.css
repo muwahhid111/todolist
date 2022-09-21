@@ -1,0 +1,21 @@
+.div {
+  display: flex;
+  justify-content: center;
+}
+/* .ul {
+  display: flex;
+  justify-content: center;
+} */
+.div1 {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.li {
+  display: flex;
+  justify-content: space-between;
+}
+
+.done {
+  text-decoration: line-through;
+}
